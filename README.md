@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+A. It's a structure of tags and text that defines object types or container types so the objects can be formatted to look a certain way in a browser.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+A. 1. Blocks stack virtically and inlines stack horizontally. 2. Inlines have no padding or margin by default.
 
 3. What are the 4 areas of the box model?
 
+A. Content, padding, border, and margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+A. Main axis.
+
 5. Explain why git is valuable to a team of developers.
+
+A. Many people can work on the same project on different forks and branches and submit their changes and the team leader can approve the changes and merge them into the project.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
