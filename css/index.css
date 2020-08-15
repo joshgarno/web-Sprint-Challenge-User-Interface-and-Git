@@ -177,3 +177,25 @@ footer nav a {
 .about-top-content .text-container {
     margin: 0 0 20px;
 }
+
+.about-container {
+    width: 370px;
+    height: 370px;
+    border-bottom: 1px dashed black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-container img {
+    margin: 10px 0;
+}
+
+.about-text-container {
+    padding: 0 0 20px;
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
