@@ -179,8 +179,9 @@ footer nav a {
 }
 
 .about-container {
+    margin: 10px 0;
     width: 370px;
-    height: 370px;
+    height: 420px;
     border-bottom: 1px dashed black;
     display: flex;
     flex-wrap: wrap;
@@ -192,10 +193,23 @@ footer nav a {
 
 .about-text-container {
     padding: 0 0 20px;
+    margin: 20px 0 20px;
+}
+
+.spacer {
+    color: white;
+    margin: 5px;
 }
 
 .about-content {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+
+.learn-more {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px 0;
 }
